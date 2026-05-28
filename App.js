@@ -11,7 +11,7 @@ import {
   ActivityIndicator
 } from 'react-native';
 
-const GEMINI_API_KEY = 'AIzaSyDrxUQzFZ2UzqOYFJ9QHpOSFW8wSgVaiM4'; 
+const GEMINI_API_KEY = 'API'; 
 
 export default function App() {
   const [inputText, setInputText] = useState('');
